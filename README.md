@@ -50,5 +50,5 @@ Repositorio
 https://github.com/GaelITO-dev/t3_act4_react
 
 
-
-
+GitPages
+https://gaelito-dev.github.io/t3_act4_react/
