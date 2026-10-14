@@ -1,15 +1,15 @@
+# Portada
 Instituto Tecnológico de Oaxaca
 Proyecto 1 en react native
-
-Chavez Hernandez Luis Eduardo
+## Nombre
+Martinez Cruz Gael
 Ingeniería en Sistemas Computacionales
-Programación Web, Verano 2026
+Programación Web
 
 
 
 Este es un proyecto de práctica para aprender los fundamentos de React componentes, props, estado, eventos y renderizado de listas.
 La aplicación web es una lista de tareas (notas) donde puedes agregar, completar/descompletar y eliminar tareas.
-<img width="1125" height="641" alt="image" src="https://github.com/user-attachments/assets/f26149ae-2a09-4151-9296-f8fc09e83427" />
 
 Tecnologías utilizadas
 
@@ -21,7 +21,7 @@ Tecnologías utilizadas
 
 1. Clona el repositorio:
 
-'''https://github.com/LuisEduardoChavezLjx/t3_act5_react'''
+'''https://github.com/GaelITO-dev/t3_act4_react.git'''
 2.Listo para hacer cambios
 
 
@@ -47,10 +47,8 @@ const [inputValue, setInputValue] = useState('');'''
 
 Repositorio
 
-https://github.com/LuisEduardoChavezLjx/t3_act5_react
-github pages
+https://github.com/GaelITO-dev/t3_act4_react
 
-https://luiseduardochavezljx.github.io/t3_act5_react/
 
 
 
